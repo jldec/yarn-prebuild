@@ -324,6 +324,9 @@ gitpod /workspace/yarn-prebuild (main) $ cat package.json
   }
 }
 gitpod /workspace/yarn-prebuild (main) $ gp init
+
+# [edited .gitpod.yml...]
+
 gitpod /workspace/yarn-prebuild (main) $ yarn gatsby -h
 yarn run v1.22.18
 $ /workspace/yarn-prebuild/node_modules/.bin/gatsby -h
