@@ -1,0 +1,233 @@
+{
+yarn install
+}; exit
+gitpod /workspace/yarn-prebuild (main) $ {
+> yarn install
+> }; exit
+yarn install v1.22.18
+[1/4] Resolving packages...
+[2/4] Fetching packages...
+[3/4] Linking dependencies...
+[4/4] Building fresh packages...
+warning Your current version of Yarn is out of date. The latest version is "1.22.19", while you're on "1.22.18".
+info To upgrade, run the following command:
+$ curl --compressed -o- -L https://yarnpkg.com/install.sh | bash
+Done in 56.50s.
+{
+yarn install
+}; exit
+gitpod /workspace/yarn-prebuild (main) $ {
+> yarn install
+> }; exit
+yarn install v1.22.18
+[1/4] Resolving packages...
+[2/4] Fetching packages...
+[3/4] Linking dependencies...
+[4/4] Building fresh packages...
+warning Your current version of Yarn is out of date. The latest version is "1.22.19", while you're on "1.22.18".
+info To upgrade, run the following command:
+$ curl --compressed -o- -L https://yarnpkg.com/install.sh | bash
+Done in 56.50s.
+
+-----------------
+ browser session
+-----------------
+
+08:48:57.235 fetching from streamUrl: https://gitpod.io/headless-logs/6d3cd411-b3ba-4395-a2d0-ae6091b52708/65dacbac-88b7-4e94-9596-770ff7f6d22b PrebuildLogs.tsx:149:20
+08:48:57.242 XHRGEThttps://gitpod.io/headless-logs/6d3cd411-b3ba-4395-a2d0-ae6091b52708/65dacbac-88b7-4e94-9596-770ff7f6d22b
+[HTTP/3 200 OK 55838ms]
+
+08:49:53.073 re-trying headless-logs because: error while listening to stream Error: stream status code: 500
+    Babel 3
+    n PrebuildLogs.tsx:211
+    s PrebuildLogs.tsx:180
+    f runtime.js:63
+    _invoke runtime.js:294
+    E runtime.js:119
+    Babel 40
+PrebuildLogs.tsx:127:20
+08:50:30.037 re-trying headless-logs because: error while listening to stream Error: Headless logs for 6d3cd411-b3ba-4395-a2d0-ae6091b52708 not found
+    Babel 3
+    n messages.js:36
+    o main.js:449
+    o main.js:276
+    o main.js:260
+    f setImmediate.js:40
+    f setImmediate.js:69
+    n setImmediate.js:109
+PrebuildLogs.tsx:127:20
+08:50:31.574 re-trying headless-logs because: error while listening to stream Error: Headless logs for 6d3cd411-b3ba-4395-a2d0-ae6091b52708 not found
+    Babel 3
+    n messages.js:36
+    o main.js:449
+    o main.js:276
+    o main.js:260
+    f setImmediate.js:40
+    f setImmediate.js:69
+    n setImmediate.js:109
+PrebuildLogs.tsx:127:20
+08:50:33.403 re-trying headless-logs because: error while listening to stream Error: Headless logs for 6d3cd411-b3ba-4395-a2d0-ae6091b52708 not found
+    Babel 3
+    n messages.js:36
+    o main.js:449
+    o main.js:276
+    o main.js:260
+    f setImmediate.js:40
+    f setImmediate.js:69
+    n setImmediate.js:109
+PrebuildLogs.tsx:127:20
+08:50:35.586 re-trying headless-logs because: error while listening to stream Error: Headless logs for 6d3cd411-b3ba-4395-a2d0-ae6091b52708 not found
+    Babel 3
+    n messages.js:36
+    o main.js:449
+    o main.js:276
+    o main.js:260
+    f setImmediate.js:40
+    f setImmediate.js:69
+    n setImmediate.js:109
+PrebuildLogs.tsx:127:20
+08:50:38.181 re-trying headless-logs because: error while listening to stream Error: Headless logs for 6d3cd411-b3ba-4395-a2d0-ae6091b52708 not found
+    Babel 3
+    n messages.js:36
+    o main.js:449
+    o main.js:276
+    o main.js:260
+    f setImmediate.js:40
+    f setImmediate.js:69
+    n setImmediate.js:109
+PrebuildLogs.tsx:127:20
+08:50:41.278 re-trying headless-logs because: error while listening to stream Error: Headless logs for 6d3cd411-b3ba-4395-a2d0-ae6091b52708 not found
+    Babel 3
+    n messages.js:36
+    o main.js:449
+    o main.js:276
+    o main.js:260
+    f setImmediate.js:40
+    f setImmediate.js:69
+    n setImmediate.js:109
+PrebuildLogs.tsx:127:20
+08:50:44.975 re-trying headless-logs because: error while listening to stream Error: Headless logs for 6d3cd411-b3ba-4395-a2d0-ae6091b52708 not found
+    Babel 3
+    n messages.js:36
+    o main.js:449
+    o main.js:276
+    o main.js:260
+    f setImmediate.js:40
+    f setImmediate.js:69
+    n setImmediate.js:109
+PrebuildLogs.tsx:127:20
+08:50:49.362 re-trying headless-logs because: error while listening to stream Error: Headless logs for 6d3cd411-b3ba-4395-a2d0-ae6091b52708 not found
+    Babel 3
+    n messages.js:36
+    o main.js:449
+    o main.js:276
+    o main.js:260
+    f setImmediate.js:40
+    f setImmediate.js:69
+    n setImmediate.js:109
+PrebuildLogs.tsx:127:20
+08:50:54.465 re-trying headless-logs because: error while listening to stream Error: Headless logs for 6d3cd411-b3ba-4395-a2d0-ae6091b52708 not found
+    Babel 3
+    n messages.js:36
+    o main.js:449
+    o main.js:276
+    o main.js:260
+    f setImmediate.js:40
+    f setImmediate.js:69
+    n setImmediate.js:109
+PrebuildLogs.tsx:127:20
+08:50:59.563 re-trying headless-logs because: error while listening to stream Error: Headless logs for 6d3cd411-b3ba-4395-a2d0-ae6091b52708 not found
+    Babel 3
+    n messages.js:36
+    o main.js:449
+    o main.js:276
+    o main.js:260
+    f setImmediate.js:40
+    f setImmediate.js:69
+    n setImmediate.js:109
+PrebuildLogs.tsx:127:20
+08:51:04.730 re-trying headless-logs because: error while listening to stream Error: Headless logs for 6d3cd411-b3ba-4395-a2d0-ae6091b52708 not found
+    Babel 3
+    n messages.js:36
+    o main.js:449
+    o main.js:276
+    o main.js:260
+    f setImmediate.js:40
+    f setImmediate.js:69
+    n setImmediate.js:109
+PrebuildLogs.tsx:127:20
+08:51:06.717 GEThttps://gitpod.io/static/media/StatusDone.59e79b87.svg
+08:51:09.833 re-trying headless-logs because: error while listening to stream Error: Headless logs for 6d3cd411-b3ba-4395-a2d0-ae6091b52708 not found
+    Babel 3
+    n messages.js:36
+    o main.js:449
+    o main.js:276
+    o main.js:260
+    f setImmediate.js:40
+    f setImmediate.js:69
+    n setImmediate.js:109
+PrebuildLogs.tsx:127:20
+08:51:14.920 re-trying headless-logs because: error while listening to stream Error: Headless logs for 6d3cd411-b3ba-4395-a2d0-ae6091b52708 not found
+    Babel 3
+    n messages.js:36
+    o main.js:449
+    o main.js:276
+    o main.js:260
+    f setImmediate.js:40
+    f setImmediate.js:69
+    n setImmediate.js:109
+PrebuildLogs.tsx:127:20
+08:51:20.028 re-trying headless-logs because: error while listening to stream Error: Headless logs for 6d3cd411-b3ba-4395-a2d0-ae6091b52708 not found
+    Babel 3
+    n messages.js:36
+    o main.js:449
+    o main.js:276
+    o main.js:260
+    f setImmediate.js:40
+    f setImmediate.js:69
+    n setImmediate.js:109
+PrebuildLogs.tsx:127:20
+08:51:25.146 re-trying headless-logs because: error while listening to stream Error: Headless logs for 6d3cd411-b3ba-4395-a2d0-ae6091b52708 not found
+    Babel 3
+    n messages.js:36
+    o main.js:449
+    o main.js:276
+    o main.js:260
+    f setImmediate.js:40
+    f setImmediate.js:69
+    n setImmediate.js:109
+PrebuildLogs.tsx:127:20
+08:51:30.249 re-trying headless-logs because: error while listening to stream Error: Headless logs for 6d3cd411-b3ba-4395-a2d0-ae6091b52708 not found
+    Babel 3
+    n messages.js:36
+    o main.js:449
+    o main.js:276
+    o main.js:260
+    f setImmediate.js:40
+    f setImmediate.js:69
+    n setImmediate.js:109
+PrebuildLogs.tsx:127:20
+08:51:35.361 re-trying headless-logs because: error while listening to stream Error: Headless logs for 6d3cd411-b3ba-4395-a2d0-ae6091b52708 not found
+    Babel 3
+    n messages.js:36
+    o main.js:449
+    o main.js:276
+    o main.js:260
+    f setImmediate.js:40
+    f setImmediate.js:69
+    n setImmediate.js:109
+PrebuildLogs.tsx:127:20
+08:51:40.483 re-trying headless-logs because: error while listening to stream Error: Headless logs for 6d3cd411-b3ba-4395-a2d0-ae6091b52708 not found
+    Babel 3
+    n messages.js:36
+    o main.js:449
+    o main.js:276
+    o main.js:260
+    f setImmediate.js:40
+    f setImmediate.js:69
+    n setImmediate.js:109
+PrebuildLogs.tsx:127:20
+08:51:45.626 fetching from streamUrl: https://gitpod.io/headless-log-download/6d3cd411-b3ba-4395-a2d0-ae6091b52708/0 PrebuildLogs.tsx:149:20
+08:51:45.634 XHRGEThttps://gitpod.io/headless-log-download/6d3cd411-b3ba-4395-a2d0-ae6091b52708/0
+[HTTP/3 200 OK 413ms]
+
