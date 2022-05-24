@@ -1,8 +1,8 @@
 # yarn-prebuild
 For testing Gitpod incremental prebuilds with yarn.
 
-- Create a project with this repo.
-- The first prebuild should run `yarn install`.
+- Create a project with this repo and turn on incremental prebuilds in the project settings.
+- The first prebuild should run a full `yarn install` and take about a minute.
 - Dependencies should remain available to subsequent prebuilds without reinstalling. 
 
 What appears to be correct behavior was observed and saved in the prebuild-log files
