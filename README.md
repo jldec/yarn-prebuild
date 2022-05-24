@@ -1,8 +1,14 @@
 # yarn-prebuild
 For testing Gitpod incremental prebuilds with yarn.
-Create a project with this repo. The first prebuild should run `yarn install`.
-Dependencies should remain available to subsequent prebuilds without reinstalling. 
 
+- Create a project with this repo.
+- The first prebuild should run `yarn install`.
+- Dependencies should remain available to subsequent prebuilds without reinstalling. 
+
+What appears to be correct behavior was observed and saved in the prebuild-log files
+
+#### How this repo was created
+(starting from an empty repo in Gitpod)
 ```
 gitpod /workspace/yarn-prebuild (main) $ which yarn 
 /home/gitpod/.nvm/versions/node/v16.15.0/bin/yarn
