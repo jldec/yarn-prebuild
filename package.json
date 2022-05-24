@@ -1,0 +1,11 @@
+{
+  "name": "yarn-prebuild",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jldec/yarn-prebuild.git",
+  "author": "Jurgen Leschner <jldec@ciaosoft.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby-cli": "^4.14.0"
+  }
+}
